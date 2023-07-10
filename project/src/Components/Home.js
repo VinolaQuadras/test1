@@ -9,6 +9,10 @@ const Home = () => {
       <div className="row">
         <div className="col-md-6">
           <h3> HappyTravelling</h3>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrw6hCl0P0-I0b_Y8_GgvUAlFN0qlHhZeTSg&usqp=CAU"
+            alt="Loading"
+            height="200px"
+            />
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in hendrerit justo. 
             Vestibulum consequat mauris eget justo volutpat, sed finibus urna fermentum.

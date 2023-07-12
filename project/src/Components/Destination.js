@@ -22,6 +22,7 @@ Lalbagh botanical garden is home to numerous birds and wildlife and has a lake. 
           <button className="btn btn-primary mt-4" type="button" data-toggle="collapse" data-target="#collapseDetails" aria-expanded="false" aria-controls="collapseDetails">
         More Details
       </button>
+      
         </div>
 
         <div className="col-md-6">
@@ -71,6 +72,11 @@ The majestic Bangalore palace is a royal palace known for its architecture with 
         </div>
 
       </div>
+      <button  type="button" class="btn btn-outline-warning">
+                        <a href="https://www.goindigo.in/"
+                    class="btn btn-danger"
+                    >Book Now</a>
+                    </button>
 
       
 
